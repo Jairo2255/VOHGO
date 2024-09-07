@@ -36,7 +36,7 @@ VOHGO fue desarrollada en flutter para facilitar y reducir el tiempo de la produ
 
 1. El usuario agrega sus productos al carrito:
 <p align="center">
-  <img src="git_img/Carrito.jpeg" alt="Interfaz de la aplicación" width="470"/>
+  <img src="git_img/carrito.jpeg" alt="Interfaz de la aplicación" width="470"/>
 </p>
 
 2. Genera la orden y se le entrega un recibo y asigna un repartidor:
@@ -65,6 +65,7 @@ Mi nombre es David Espejo y desarrollé el app:
 
 Si quieres hablar sobre tecnología, startups o simplemente saludar, ¡no dudes en enviarme un mensaje!  
 📧 Email: [davas.espejo@gmail.com](mailto:davas.espejo@gmail.com)
+📧 Email: [jaivalsab@gmail.com](mailto:jaivalsab@gmail.com)
 
 
 ## Instalación
