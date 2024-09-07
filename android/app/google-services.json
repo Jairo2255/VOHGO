@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499025697424",
+    "project_id": "vohgousers",
+    "storage_bucket": "vohgousers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499025697424:android:b0b65b91639a64dfb35615",
+        "android_client_info": {
+          "package_name": "com.example.vohgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLw-K9p94zu3wtywIpb2liBJhjTAzNWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
